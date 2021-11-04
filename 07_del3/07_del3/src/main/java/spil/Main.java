@@ -14,11 +14,30 @@ public class Main {
 
         GUI_Field guiField1 = new Field(Color.BLUE, Color.white, FieldConstants.TOWER_ID, FieldConstants.TOWER_AMOUNT, FieldConstants.TOWER_NAME, FieldConstants.TOWER_TEXT);
         GUI_Field guiField2 = new Field(Color.GRAY, Color.YELLOW, FieldConstants.CRATER_ID, FieldConstants.CRATER_AMOUNT, FieldConstants.CRATER_NAME, FieldConstants.CRATER_TEXT);
+        GUI_Field guiField3 =new Field(Color.BLUE, Color.white,FieldConstants.PALACE_GATES_ID, FieldConstants.PALACE_GATES_AMOUNT, FieldConstants.PALACE_GATES_NAME, FieldConstants.PALACE_GATES_TEXT);
+        GUI_Field guiField4 =new Field(Color.BLUE, Color.white,FieldConstants.COLD_DESERT_ID, FieldConstants.COLD_DESERT_AMOUNT, FieldConstants.COLD_DESERT_NAME, FieldConstants.COLD_DESERT_TEXT);
+        GUI_Field guiField5 =new Field(Color.BLUE, Color.white,FieldConstants.WALLED_CITY_ID, FieldConstants.WALLED_CITY_AMOUNT, FieldConstants.WALLED_CITY_NAME, FieldConstants.WALLED_CITY_TEXT);
+        GUI_Field guiField6 =new Field(Color.BLUE, Color.white,FieldConstants.MONASTARY_ID, FieldConstants.MONASTARY_AMOUNT, FieldConstants.MONASTARY_NAME, FieldConstants.MONASTARY_TEXT);
+        GUI_Field guiField7 =new Field(Color.BLUE, Color.white,FieldConstants.BLACK_CAVE_ID, FieldConstants.BLACK_CAVE_AMOUNT, FieldConstants.BLACK_CAVE_NAME, FieldConstants.BLACK_CAVE_TEXT);
+        GUI_Field guiField8 =new Field(Color.BLUE, Color.white,FieldConstants.HUTS_IN_THE_MOUNTAIN_ID, FieldConstants.HUTS_IN_THE_MOUNTAIN_AMOUNT, FieldConstants.HUTS_IN_THE_MOUNTAIN_NAME, FieldConstants.HUTS_IN_THE_MOUNTAIN_TEXT);
+        GUI_Field guiField9 =new Field(Color.BLUE, Color.white,FieldConstants.THE_WEREWALL_ID, FieldConstants.THE_WEREWALL_AMOUNT, FieldConstants.THE_WEREWALL_NAME, FieldConstants.THE_WEREWALL_TEXT);
+        GUI_Field guiField10 =new Field(Color.BLUE, Color.white,FieldConstants.THE_PIT_ID, FieldConstants.THE_PIT_AMOUNT, FieldConstants.THE_PIT_NAME, FieldConstants.THE_PIT_TEXT);
+        GUI_Field guiField11 =new Field(Color.BLUE, Color.white,FieldConstants.GOLD_MINE_ID, FieldConstants.GOLD_MINE_AMOUNT, FieldConstants.GOLD_MINE_NAME, FieldConstants.GOLD_MINE_TEXT);
 
-        GUI_Field[] guiFields = new GUI_Field[2];
+        GUI_Field[] guiFields = new GUI_Field[11];
 
         guiFields[0] = guiField1;
         guiFields[1] = guiField2;
+        guiFields[2] = guiField3;
+        guiFields[3] = guiField4;
+        guiFields[4] = guiField5;
+        guiFields[5] = guiField6;
+        guiFields[6] = guiField7;
+        guiFields[7] = guiField8;
+        guiFields[8] = guiField9;
+        guiFields[9] = guiField10;
+        guiFields[10] = guiField11;
+
 
         GUI gui = new GUI(guiFields);
 
