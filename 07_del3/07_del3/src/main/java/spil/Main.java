@@ -12,6 +12,7 @@ public class Main {
     public static void main(String[] args) {
         GameController gameController = new GameController();
 
+        // Transforming fields into GUI field's, so the GUI can display them
         GUI_Field guiField1 = new Field(Color.BLUE, Color.white, FieldConstants.TOWER_ID, FieldConstants.TOWER_AMOUNT, FieldConstants.TOWER_NAME, FieldConstants.TOWER_TEXT);
         GUI_Field guiField2 = new Field(Color.GRAY, Color.YELLOW, FieldConstants.CRATER_ID, FieldConstants.CRATER_AMOUNT, FieldConstants.CRATER_NAME, FieldConstants.CRATER_TEXT);
         GUI_Field guiField3 =new Field(Color.BLUE, Color.white,FieldConstants.PALACE_GATES_ID, FieldConstants.PALACE_GATES_AMOUNT, FieldConstants.PALACE_GATES_NAME, FieldConstants.PALACE_GATES_TEXT);
@@ -24,6 +25,7 @@ public class Main {
         GUI_Field guiField10 =new Field(Color.BLUE, Color.white,FieldConstants.THE_PIT_ID, FieldConstants.THE_PIT_AMOUNT, FieldConstants.THE_PIT_NAME, FieldConstants.THE_PIT_TEXT);
         GUI_Field guiField11 =new Field(Color.BLUE, Color.white,FieldConstants.GOLD_MINE_ID, FieldConstants.GOLD_MINE_AMOUNT, FieldConstants.GOLD_MINE_NAME, FieldConstants.GOLD_MINE_TEXT);
 
+        // We are making an Array list for GU Field
         GUI_Field[] guiFields = new GUI_Field[11];
 
         guiFields[0] = guiField1;
