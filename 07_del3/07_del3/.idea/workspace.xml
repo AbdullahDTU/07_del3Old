@@ -34,6 +34,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/diplomitdtu/matadorgui/3.2.1/matadorgui-3.2.1-sources.jar!/gui_fields/GUI_Field.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/diplomitdtu/matadorgui/3.2.1/matadorgui-3.2.1-sources.jar!/gui_main/GUI.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -91,7 +95,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="ide.date.format" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -145,7 +149,7 @@
       <workItem from="1632816853374" duration="14448000" />
       <workItem from="1633510751017" duration="103000" />
       <workItem from="1635974508393" duration="23000" />
-      <workItem from="1636016180090" duration="551000" />
+      <workItem from="1636016180090" duration="2909000" />
     </task>
     <servers />
   </component>
