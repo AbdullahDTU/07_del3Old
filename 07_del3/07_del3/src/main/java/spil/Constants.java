@@ -1,4 +1,4 @@
-package main.java.spil;
+package spil;
 
 public class Constants {
     //Variables for starting player score, start position and score required to win

@@ -1,4 +1,4 @@
-package main.java.spil;
+package spil;
 
 import java.util.ArrayList;
 import java.util.Arrays;

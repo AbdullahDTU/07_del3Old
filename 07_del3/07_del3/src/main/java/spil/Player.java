@@ -1,4 +1,4 @@
-package main.java.spil;
+package spil;
 
 public class Player {
     private String playerName;
