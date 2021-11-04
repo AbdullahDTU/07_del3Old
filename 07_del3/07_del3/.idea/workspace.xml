@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bfd90b1f-3aee-42a2-9180-4b72aae91f08" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,6 +145,7 @@
       <workItem from="1632816853374" duration="14448000" />
       <workItem from="1633510751017" duration="103000" />
       <workItem from="1635974508393" duration="23000" />
+      <workItem from="1636016180090" duration="551000" />
     </task>
     <servers />
   </component>
@@ -184,7 +188,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
