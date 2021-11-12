@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7adeb57f-a4c6-4313-927e-f472984f6d36" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spil/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spil/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7adeb57f-a4c6-4313-927e-f472984f6d36" name="Changes" comment="Added GUI_Field up to 24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,8 +148,16 @@
       <workItem from="1636016180090" duration="2909000" />
       <workItem from="1636021795811" duration="1646000" />
       <workItem from="1636708565364" duration="284000" />
-      <workItem from="1636708881963" duration="1038000" />
+      <workItem from="1636708881963" duration="1171000" />
     </task>
+    <task id="LOCAL-00001" summary="Added GUI_Field up to 24">
+      <created>1636709974513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636709974513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -224,6 +226,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added GUI_Field up to 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added GUI_Field up to 24" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
