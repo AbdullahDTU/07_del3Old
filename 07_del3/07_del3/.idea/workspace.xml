@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7adeb57f-a4c6-4313-927e-f472984f6d36" name="Changes" comment="" />
+    <list default="true" id="7adeb57f-a4c6-4313-927e-f472984f6d36" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spil/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spil/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +141,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bfd90b1f-3aee-42a2-9180-4b72aae91f08" name="Default Changelist" comment="" />
+      <changelist id="7adeb57f-a4c6-4313-927e-f472984f6d36" name="Changes" comment="" />
       <created>1632746394128</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -147,6 +153,8 @@
       <workItem from="1635974508393" duration="23000" />
       <workItem from="1636016180090" duration="2909000" />
       <workItem from="1636021795811" duration="1646000" />
+      <workItem from="1636708565364" duration="284000" />
+      <workItem from="1636708881963" duration="1038000" />
     </task>
     <servers />
   </component>
